@@ -1,4 +1,4 @@
-# Covid-19-Visualization---SNA-Project
+# Covid-19-Visualization
 This project done as part of our Social Network Analysis Course.
 It explains the epidemic spread using social network analysis, based on the given data.
 A network is defined and visualization is used to understand the spread of coronavirus among
